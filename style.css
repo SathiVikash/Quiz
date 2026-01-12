@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#html-btn {
+    background-color: #ff9900;
+}
+
+#css-btn {
+    background-color: #2196f3;
+}
+
+#javascript-btn {
+    background-color: #f7dc6f;
+}
+
+#prev-btn {
+    background-color: #808080;
+}
+
+#next-btn {
+    background-color: #007bff;
+}
+
+#submit-btn {
+    background-color: #2ecc71;
+}
+
+#reset-btn {
+    background-color: #e74c3c;
+}
+.index-head{
+    font-size: 40px;
+    text-align: center;
+}
+.btns1, .btns2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gk-btn button{
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+    margin:20px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #f7dc6f;
+}
+.gk-btn button:hover{
+    background-color: #fae8a1;
+}
+.c-btn button{
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+    margin:20px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #ff9900;
+}
+.c-btn button:hover{
+    background-color: #fad49b;
+}
+.java-btn button{
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+    margin:20px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #2ecc71;
+}
+.java-btn button:hover{
+    background-color: #95ffc1;
+}
+.python-btn button{
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+    margin:20px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #2196f3;
+}
+.python-btn button:hover{
+    background-color: #9ac8f9;
+}
+.html-btn button{
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+    margin:20px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #e74c3c;
+}
+.html-btn button:hover{
+    background-color: #f99c91;
+}
